@@ -5,8 +5,8 @@
     "qr": "111111111111111111111111111111111fff",
     "expireDate": "",
     "id": "ID40103",
-    "description": "ID40103 undefined",
-    "freeWord": "プリうさムギちゃんアクセ ID40103 undefined"
+    "description": "ID40103 プリうさムギちゃん",
+    "freeWord": "プリうさムギちゃんアクセ ID40103 プリうさムギちゃん"
   },
   {
     "name": "ひまりハートピンク",
@@ -14,6 +14,7 @@
     "qr": "bbbbbbbbbbbbbbbbbbb",
     "expireDate": "",
     "id": null,
-    "freeWord": "ひまりハートピンク undefined"
+    "description": "aaa",
+    "freeWord": "ひまりハートピンク aaa"
   }
 ]
