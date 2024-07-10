@@ -1795,6 +1795,19 @@
   },
   {
     "chapter": "スペシャルアイプリカード",
+    "id": "P-026",
+    "name": "ミラクルムーンバズリウム",
+    "character": "みつき",
+    "rarity": "",
+    "rarity_img": "",
+    "item_img1": "https://aipri.jp/card/img/special/P-026_O.webp",
+    "item_img2": "https://aipri.jp/card/img/special/P-026_U.webp",
+    "point": "",
+    "category": "",
+    "song": ""
+  },
+  {
+    "chapter": "スペシャルアイプリカード",
     "id": "TOY-000",
     "name": "レインボースカイ",
     "character": "ひまり",
