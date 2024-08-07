@@ -2627,6 +2627,32 @@
   },
   {
     "chapter": "スペシャルアイプリカード",
+    "id": "P-031",
+    "name": "カワイイくまさんゆめかわ",
+    "character": "リンリン",
+    "rarity": "",
+    "rarity_img": "",
+    "item_img1": "https://aipri.jp/card/img/special/P-031_O.webp",
+    "item_img2": "https://aipri.jp/card/img/special/P-031_U.webp",
+    "point": "",
+    "category": "",
+    "song": ""
+  },
+  {
+    "chapter": "スペシャルアイプリカード",
+    "id": "P-033",
+    "name": "リトルフェアリーブルー",
+    "character": "つむぎ",
+    "rarity": "",
+    "rarity_img": "",
+    "item_img1": "https://aipri.jp/card/img/special/P-033_O.webp",
+    "item_img2": "https://aipri.jp/card/img/special/P-033_U.webp",
+    "point": "",
+    "category": "",
+    "song": ""
+  },
+  {
+    "chapter": "スペシャルアイプリカード",
     "id": "P-036",
     "name": "ポッピンハートバズリウム",
     "character": "ひまり",
