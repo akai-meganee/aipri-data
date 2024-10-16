@@ -8529,6 +8529,32 @@
   },
   {
     "chapter": "４だん",
+    "id": "V4-016",
+    "name": "フェザーグランプリクールレッド",
+    "coordi_img": "https://aipri.jp/verse/item/img/4/V4-016.webp",
+    "brandname": "スカーレットバタフライ",
+    "brand_img": "https://aipri.jp/verse/item/undefined",
+    "rarity": "4",
+    "rarity_img": "https://aipri.jp/verse/item/img/icn_star4.webp",
+    "category": "ワンピ",
+    "point": 400,
+    "item_img1": "https://aipri.jp/verse/item/img/4/Item_ID30867.webp"
+  },
+  {
+    "chapter": "４だん",
+    "id": "V4-017",
+    "name": "フェザーグランプリクールレッド",
+    "coordi_img": "https://aipri.jp/verse/item/img/4/V4-016.webp",
+    "brandname": "スカーレットバタフライ",
+    "brand_img": "https://aipri.jp/verse/item/undefined",
+    "rarity": "4",
+    "rarity_img": "https://aipri.jp/verse/item/img/icn_star4.webp",
+    "category": "シューズ",
+    "point": 180,
+    "item_img1": "https://aipri.jp/verse/item/img/4/Item_ID30868.webp"
+  },
+  {
+    "chapter": "４だん",
     "id": "V4-028",
     "name": "てんびんざターコイズ",
     "coordi_img": "https://aipri.jp/verse/item/img/4/V4-028.webp",
