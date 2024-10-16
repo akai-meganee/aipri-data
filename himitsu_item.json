@@ -4132,5 +4132,44 @@
     "point": "",
     "category": "",
     "song": ""
+  },
+  {
+    "chapter": "スペシャルアイプリカード",
+    "id": "TOY-039",
+    "name": "シークレットフレンズ∞バズリウムパープル",
+    "character": "ひまり",
+    "rarity": "",
+    "rarity_img": "",
+    "item_img1": "https://aipri.jp/card/img/special/TOY-039_O.webp",
+    "item_img2": "https://aipri.jp/card/img/special/TOY-039_U.webp",
+    "point": "",
+    "category": "",
+    "song": ""
+  },
+  {
+    "chapter": "スペシャルアイプリカード",
+    "id": "TOY-040",
+    "name": "シークレットフレンズ∞バズリウムパープル",
+    "character": "みつき",
+    "rarity": "",
+    "rarity_img": "",
+    "item_img1": "https://aipri.jp/card/img/special/TOY-040_O.webp",
+    "item_img2": "https://aipri.jp/card/img/special/TOY-040_U.webp",
+    "point": "",
+    "category": "",
+    "song": ""
+  },
+  {
+    "chapter": "スペシャルアイプリカード",
+    "id": "TOY-041",
+    "name": "シークレットフレンズ∞バズリウムパープル",
+    "character": "つむぎ",
+    "rarity": "",
+    "rarity_img": "",
+    "item_img1": "https://aipri.jp/card/img/special/TOY-041_O.webp",
+    "item_img2": "https://aipri.jp/card/img/special/TOY-041_U.webp",
+    "point": "",
+    "category": "",
+    "song": ""
   }
 ]
