@@ -6971,5 +6971,24 @@
     "brand_img": "",
     "period": "",
     "description": ""
+  },
+  {
+    "game": "アイプリバース",
+    "chapter": "ユーザー登録",
+    "id": "VRS-364",
+    "name": "プリねこカチューシャ（訂正版）",
+    "character": "",
+    "rarity": "",
+    "rarity_img": "",
+    "item_img1": "https://pbs.twimg.com/media/GqPGUU9bAAEepAv?format=jpg&name=360x360",
+    "item_img2": "",
+    "point": "",
+    "category": "",
+    "song": "",
+    "coordi_img": "",
+    "brandname": "",
+    "brand_img": "",
+    "period": "",
+    "description": ""
   }
 ]
