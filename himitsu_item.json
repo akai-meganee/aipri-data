@@ -6566,6 +6566,19 @@
   },
   {
     "chapter": "スペシャルアイプリカード",
+    "id": "P-101",
+    "name": "ガーリーピアノピンク",
+    "character": "ひまり",
+    "rarity": "",
+    "rarity_img": "",
+    "item_img1": "https://aipri.jp/card/img/special/P-101_O.webp",
+    "item_img2": "https://aipri.jp/card/img/special/P-101_U.webp",
+    "point": "",
+    "category": "",
+    "song": ""
+  },
+  {
+    "chapter": "スペシャルアイプリカード",
     "id": "P-102",
     "name": "ベリキューデニムラブパープル",
     "character": "える",
