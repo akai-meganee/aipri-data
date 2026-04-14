@@ -37905,46 +37905,7 @@
     "rarity_img": "https://aipri.jp/verse/item/img/icn_star4.webp",
     "category": "トップス",
     "point": 330,
-    "item_img1": "https://aipri.jp/verse/item/img/oa1/Item_ID32856.webp"
-  },
-  {
-    "chapter": "おねがい １だん",
-    "id": "OAF1-001-2",
-    "name": "マジカルミラクル",
-    "coordi_img": "https://aipri.jp/verse/item/img/oa1/OAF1-001-1.webp",
-    "brandname": "",
-    "brand_img": "https://aipri.jp/verse/item/undefined",
-    "rarity": "4",
-    "rarity_img": "https://aipri.jp/verse/item/img/icn_star4.webp",
-    "category": "ボトムス",
-    "point": 360,
-    "item_img1": "https://aipri.jp/verse/item/img/oa1/Item_ID32857.webp"
-  },
-  {
-    "chapter": "おねがい １だん",
-    "id": "OAF1-001-3",
-    "name": "マジカルミラクル",
-    "coordi_img": "https://aipri.jp/verse/item/img/oa1/OAF1-001-1.webp",
-    "brandname": "",
-    "brand_img": "https://aipri.jp/verse/item/undefined",
-    "rarity": "4",
-    "rarity_img": "https://aipri.jp/verse/item/img/icn_star4.webp",
-    "category": "シューズ",
-    "point": 350,
-    "item_img1": "https://aipri.jp/verse/item/img/oa1/Item_ID32858.webp"
-  },
-  {
-    "chapter": "おねがい １だん",
-    "id": "OAF1-001-4",
-    "name": "マジカルミラクル",
-    "coordi_img": "https://aipri.jp/verse/item/img/oa1/OAF1-001-1.webp",
-    "brandname": "",
-    "brand_img": "https://aipri.jp/verse/item/undefined",
-    "rarity": "4",
-    "rarity_img": "https://aipri.jp/verse/item/img/icn_star4.webp",
-    "category": "アクセ",
-    "point": 360,
-    "item_img1": "https://aipri.jp/verse/item/img/oa1/Item_ID32859.webp"
+    "item_img1": "https://aipri.jp/verse/item/img/oa1/OAF1-001-1.webp"
   },
   {
     "chapter": "おねがい １だん",
@@ -37957,33 +37918,7 @@
     "rarity_img": "https://aipri.jp/verse/item/img/icn_star4.webp",
     "category": "ワンピ",
     "point": 700,
-    "item_img1": "https://aipri.jp/verse/item/img/oa1/Item_ID32860.webp"
-  },
-  {
-    "chapter": "おねがい １だん",
-    "id": "OAF1-002-2",
-    "name": "トキメキトゥインクルイエロー",
-    "coordi_img": "https://aipri.jp/verse/item/img/oa1/OAF1-002-1.webp",
-    "brandname": "",
-    "brand_img": "https://aipri.jp/verse/item/undefined",
-    "rarity": "4",
-    "rarity_img": "https://aipri.jp/verse/item/img/icn_star4.webp",
-    "category": "シューズ",
-    "point": 350,
-    "item_img1": "https://aipri.jp/verse/item/img/oa1/Item_ID32861.webp"
-  },
-  {
-    "chapter": "おねがい １だん",
-    "id": "OAF1-002-3",
-    "name": "トキメキトゥインクルイエロー",
-    "coordi_img": "https://aipri.jp/verse/item/img/oa1/OAF1-002-1.webp",
-    "brandname": "",
-    "brand_img": "https://aipri.jp/verse/item/undefined",
-    "rarity": "4",
-    "rarity_img": "https://aipri.jp/verse/item/img/icn_star4.webp",
-    "category": "アクセ",
-    "point": 350,
-    "item_img1": "https://aipri.jp/verse/item/img/oa1/Item_ID32862.webp"
+    "item_img1": "https://aipri.jp/verse/item/img/oa1/OAF1-002-1.webp"
   },
   {
     "chapter": "おねがい １だん",
@@ -37996,33 +37931,7 @@
     "rarity_img": "https://aipri.jp/verse/item/img/icn_star4.webp",
     "category": "ワンピ",
     "point": 680,
-    "item_img1": "https://aipri.jp/verse/item/img/oa1/Item_ID32863.webp"
-  },
-  {
-    "chapter": "おねがい １だん",
-    "id": "OAF1-003-2",
-    "name": "ゆうじょうさくらツイン　すきすきピンク",
-    "coordi_img": "https://aipri.jp/verse/item/img/oa1/OAF1-003-1.webp",
-    "brandname": "",
-    "brand_img": "https://aipri.jp/verse/item/undefined",
-    "rarity": "4",
-    "rarity_img": "https://aipri.jp/verse/item/img/icn_star4.webp",
-    "category": "シューズ",
-    "point": 360,
-    "item_img1": "https://aipri.jp/verse/item/img/oa1/Item_ID32864.webp"
-  },
-  {
-    "chapter": "おねがい １だん",
-    "id": "OAF1-003-3",
-    "name": "ゆうじょうさくらツイン　すきすきピンク",
-    "coordi_img": "https://aipri.jp/verse/item/img/oa1/OAF1-003-1.webp",
-    "brandname": "",
-    "brand_img": "https://aipri.jp/verse/item/undefined",
-    "rarity": "4",
-    "rarity_img": "https://aipri.jp/verse/item/img/icn_star4.webp",
-    "category": "アクセ",
-    "point": 360,
-    "item_img1": "https://aipri.jp/verse/item/img/oa1/Item_ID32865.webp"
+    "item_img1": "https://aipri.jp/verse/item/img/oa1/OAF1-003-1.webp"
   },
   {
     "chapter": "おねがい １だん",
@@ -38035,33 +37944,7 @@
     "rarity_img": "https://aipri.jp/verse/item/img/icn_star4.webp",
     "category": "ワンピ",
     "point": 720,
-    "item_img1": "https://aipri.jp/verse/item/img/oa1/Item_ID32866.webp"
-  },
-  {
-    "chapter": "おねがい １だん",
-    "id": "OAF1-004-2",
-    "name": "ゆうじょうさくらツイン　ゆめゆめブルー",
-    "coordi_img": "https://aipri.jp/verse/item/img/oa1/OAF1-004-1.webp",
-    "brandname": "",
-    "brand_img": "https://aipri.jp/verse/item/undefined",
-    "rarity": "4",
-    "rarity_img": "https://aipri.jp/verse/item/img/icn_star4.webp",
-    "category": "シューズ",
-    "point": 340,
-    "item_img1": "https://aipri.jp/verse/item/img/oa1/Item_ID32867.webp"
-  },
-  {
-    "chapter": "おねがい １だん",
-    "id": "OAF1-004-3",
-    "name": "ゆうじょうさくらツイン　ゆめゆめブルー",
-    "coordi_img": "https://aipri.jp/verse/item/img/oa1/OAF1-004-1.webp",
-    "brandname": "",
-    "brand_img": "https://aipri.jp/verse/item/undefined",
-    "rarity": "4",
-    "rarity_img": "https://aipri.jp/verse/item/img/icn_star4.webp",
-    "category": "アクセ",
-    "point": 340,
-    "item_img1": "https://aipri.jp/verse/item/img/oa1/Item_ID32868.webp"
+    "item_img1": "https://aipri.jp/verse/item/img/oa1/OAF1-004-1.webp"
   },
   {
     "chapter": "おねがい １だん",
@@ -38074,46 +37957,7 @@
     "rarity_img": "https://aipri.jp/verse/item/img/icn_star4.webp",
     "category": "トップス",
     "point": 330,
-    "item_img1": "https://aipri.jp/verse/item/img/oa1/Item_ID32869.webp"
-  },
-  {
-    "chapter": "おねがい １だん",
-    "id": "OAF1-005-2",
-    "name": "リボンアイドルグリーン",
-    "coordi_img": "https://aipri.jp/verse/item/img/oa1/OAF1-005-1.webp",
-    "brandname": "",
-    "brand_img": "https://aipri.jp/verse/item/undefined",
-    "rarity": "4",
-    "rarity_img": "https://aipri.jp/verse/item/img/icn_star4.webp",
-    "category": "ボトムス",
-    "point": 360,
-    "item_img1": "https://aipri.jp/verse/item/img/oa1/Item_ID32870.webp"
-  },
-  {
-    "chapter": "おねがい １だん",
-    "id": "OAF1-005-3",
-    "name": "リボンアイドルグリーン",
-    "coordi_img": "https://aipri.jp/verse/item/img/oa1/OAF1-005-1.webp",
-    "brandname": "",
-    "brand_img": "https://aipri.jp/verse/item/undefined",
-    "rarity": "4",
-    "rarity_img": "https://aipri.jp/verse/item/img/icn_star4.webp",
-    "category": "シューズ",
-    "point": 350,
-    "item_img1": "https://aipri.jp/verse/item/img/oa1/Item_ID32871.webp"
-  },
-  {
-    "chapter": "おねがい １だん",
-    "id": "OAF1-005-4",
-    "name": "リボンアイドルグリーン",
-    "coordi_img": "https://aipri.jp/verse/item/img/oa1/OAF1-005-1.webp",
-    "brandname": "",
-    "brand_img": "https://aipri.jp/verse/item/undefined",
-    "rarity": "4",
-    "rarity_img": "https://aipri.jp/verse/item/img/icn_star4.webp",
-    "category": "アクセ",
-    "point": 360,
-    "item_img1": "https://aipri.jp/verse/item/img/oa1/Item_ID32872.webp"
+    "item_img1": "https://aipri.jp/verse/item/img/oa1/OAF1-005-1.webp"
   },
   {
     "chapter": "おねがい １だん",
@@ -38126,46 +37970,7 @@
     "rarity_img": "https://aipri.jp/verse/item/img/icn_star4.webp",
     "category": "トップス",
     "point": 350,
-    "item_img1": "https://aipri.jp/verse/item/img/oa1/Item_ID32873.webp"
-  },
-  {
-    "chapter": "おねがい １だん",
-    "id": "OAF1-006-2",
-    "name": "フルーツパフェチョコベリー",
-    "coordi_img": "https://aipri.jp/verse/item/img/oa1/OAF1-006-1.webp",
-    "brandname": "",
-    "brand_img": "https://aipri.jp/verse/item/undefined",
-    "rarity": "4",
-    "rarity_img": "https://aipri.jp/verse/item/img/icn_star4.webp",
-    "category": "ボトムス",
-    "point": 330,
-    "item_img1": "https://aipri.jp/verse/item/img/oa1/Item_ID32874.webp"
-  },
-  {
-    "chapter": "おねがい １だん",
-    "id": "OAF1-006-3",
-    "name": "フルーツパフェチョコベリー",
-    "coordi_img": "https://aipri.jp/verse/item/img/oa1/OAF1-006-1.webp",
-    "brandname": "",
-    "brand_img": "https://aipri.jp/verse/item/undefined",
-    "rarity": "4",
-    "rarity_img": "https://aipri.jp/verse/item/img/icn_star4.webp",
-    "category": "シューズ",
-    "point": 370,
-    "item_img1": "https://aipri.jp/verse/item/img/oa1/Item_ID32875.webp"
-  },
-  {
-    "chapter": "おねがい １だん",
-    "id": "OAF1-006-4",
-    "name": "フルーツパフェチョコベリー",
-    "coordi_img": "https://aipri.jp/verse/item/img/oa1/OAF1-006-1.webp",
-    "brandname": "",
-    "brand_img": "https://aipri.jp/verse/item/undefined",
-    "rarity": "4",
-    "rarity_img": "https://aipri.jp/verse/item/img/icn_star4.webp",
-    "category": "アクセ",
-    "point": 350,
-    "item_img1": "https://aipri.jp/verse/item/img/oa1/Item_ID32876.webp"
+    "item_img1": "https://aipri.jp/verse/item/img/oa1/OAF1-006-1.webp"
   },
   {
     "chapter": "リング５だん",
