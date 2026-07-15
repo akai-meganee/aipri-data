@@ -12259,6 +12259,58 @@
     "song": ""
   },
   {
+    "chapter": "おねがいスペシャルアイプリカード",
+    "id": "OP-055",
+    "name": "トキメキトゥインクルピンク",
+    "character": "いのり",
+    "rarity": "",
+    "rarity_img": "",
+    "item_img1": "https://aipri.jp/card/img/special/OP-055_O.webp",
+    "item_img2": "https://aipri.jp/card/img/special/OP-055_U.webp",
+    "point": "",
+    "category": "",
+    "song": ""
+  },
+  {
+    "chapter": "おねがいスペシャルアイプリカード",
+    "id": "OP-056",
+    "name": "トキメキトゥインクルブルー",
+    "character": "あおい",
+    "rarity": "",
+    "rarity_img": "",
+    "item_img1": "https://aipri.jp/card/img/special/OP-056_O.webp",
+    "item_img2": "https://aipri.jp/card/img/special/OP-056_U.webp",
+    "point": "",
+    "category": "",
+    "song": ""
+  },
+  {
+    "chapter": "おねがいスペシャルアイプリカード",
+    "id": "OP-057",
+    "name": "シールぺったんチアグリーン",
+    "character": "ぐみ",
+    "rarity": "",
+    "rarity_img": "",
+    "item_img1": "https://aipri.jp/card/img/special/OP-057_O.webp",
+    "item_img2": "https://aipri.jp/card/img/special/OP-057_U.webp",
+    "point": "",
+    "category": "",
+    "song": ""
+  },
+  {
+    "chapter": "おねがいスペシャルアイプリカード",
+    "id": "OP-058",
+    "name": "シールぺったんチアイエロー",
+    "character": "おりびあ",
+    "rarity": "",
+    "rarity_img": "",
+    "item_img1": "https://aipri.jp/card/img/special/OP-058_O.webp",
+    "item_img2": "https://aipri.jp/card/img/special/OP-058_U.webp",
+    "point": "",
+    "category": "",
+    "song": ""
+  },
+  {
     "chapter": "おねがいスペシャルカード",
     "id": "OTOY-000",
     "name": "プリズムハートピンク",
